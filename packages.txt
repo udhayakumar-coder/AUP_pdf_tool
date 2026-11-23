@@ -1,0 +1,15 @@
+libreoffice
+calibre
+ghostscript
+tesseract-ocr
+tesseract-ocr-eng
+tesseract-ocr-tam
+qpdf
+djvulibre-bin
+poppler-utils
+libheif1
+p7zip-full
+unrar-free
+fonts-dejavu
+fonts-liberation
+fonts-lohit-taml

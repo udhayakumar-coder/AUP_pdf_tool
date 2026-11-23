@@ -1,0 +1,17 @@
+streamlit>=1.38.0
+pypdf>=5.0.0
+PyMuPDF>=1.24.0
+pypdfium2>=4.30.0
+Pillow>=10.4.0
+pillow-heif>=0.18.0
+reportlab>=4.2.0
+pdfplumber>=0.11.4
+pdf2docx>=0.5.8
+python-docx>=1.1.2
+python-pptx>=1.0.2
+openpyxl>=3.1.5
+pandas>=2.2.0
+pyhwp>=0.1b15
+pytesseract>=0.3.13
+weasyprint>=62.3
+beautifulsoup4>=4.12.3
