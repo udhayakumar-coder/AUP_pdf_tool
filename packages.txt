@@ -8,6 +8,9 @@ qpdf
 djvulibre-bin
 poppler-utils
 libheif1
+libpango-1.0-0
+libpangocairo-1.0-0
+libgdk-pixbuf-2.0-0
 p7zip-full
 unrar-free
 fonts-dejavu

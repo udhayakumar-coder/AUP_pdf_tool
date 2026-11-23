@@ -3,7 +3,12 @@
 from __future__ import annotations
 
 import os
+import sys
 from typing import List, Tuple
+
+APP_DIR = os.path.dirname(os.path.abspath(__file__))
+if APP_DIR not in sys.path:
+    sys.path.insert(0, APP_DIR)
 
 import streamlit as st
 
